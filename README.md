@@ -1,2 +1,2 @@
-# crud-on-fastapi-and-supabase
-backend on FastAPI
+# backend development
+backend development on FastAPI with Supabase CRUD operations.
